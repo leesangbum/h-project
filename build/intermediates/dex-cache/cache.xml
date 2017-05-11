@@ -2,202 +2,40 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/ea4da13617483b512af625c73251a3e4518c217a/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/hosup/git/h-project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_e22f2bbde5e28693f3114877c6fa93b7298e4f97.jar" />
+        sha1="9040bf10bcd1009b13fb7561eb5c68c8b6a2412b">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b43540a8c63ee9206adb9ae06bf16d896390ca6b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/hosup/.android/build-cache/ee2f922862aa1317e1aeab7c11ec06ab7a275f9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca998455c388fe4ef4252211295a13b524f00bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/git/h-project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99c0213fcb58fdcf902b98fd492e6987b6e51e1e/classes.dex" />
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5bfe338cb1d4c6d07aa9a2ea201da1bd3874e5cb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/0ce60c490a8bea3bdb22d5d8ffdcb08933b9379a/output/jars/classes.jar"
+        jar="/Users/hosup/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c5e3cdb59385db7b40f77b12b417d341a7a3b19/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/511d334603fdd55ac49bc79b76f8ebc97def6d38/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_4f25314b7d4ec805cc7031e516ab36cb7cb791b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/0ce60c490a8bea3bdb22d5d8ffdcb08933b9379a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_4c5e3cdb59385db7b40f77b12b417d341a7a3b19.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/bca0e5f532f01d64baf799481671b1da47fc70ea/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0c4cd7554a0a029ad2ab1093a3b0b92bf43bd86/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/d67d11d8d74d88582beeb4fe72e8201cafcb31b0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_0e7c2ac114d19d1336465d218ba9ddddfec63451.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/4cea4d4db42c332c046395c1bd03195333bcbd71/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_911ee8d7ea91a10557d036f8ec4349f6008127e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/d67d11d8d74d88582beeb4fe72e8201cafcb31b0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e7c2ac114d19d1336465d218ba9ddddfec63451/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/4cea4d4db42c332c046395c1bd03195333bcbd71/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_911ee8d7ea91a10557d036f8ec4349f6008127e1.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/fdd76782db6e7d575689cbdebe625d50d10f1dd9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f2e98327396cdbd82671a10c2604c5610b3b77c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/fdd76782db6e7d575689cbdebe625d50d10f1dd9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_2f2e98327396cdbd82671a10c2604c5610b3b77c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/511d334603fdd55ac49bc79b76f8ebc97def6d38/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f25314b7d4ec805cc7031e516ab36cb7cb791b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="457e6cbe0262253d374feebbd819a831db6a979e">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8d994acc73f5ca893eebffb830db1521a14ce5d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/6daf229448a298ff6588560ce6f1df3e2092e969/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6aff8f945ef1f9a9d794af11f25adef6892e8f1e/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c4eb7ef400ed07d5eaf41b677b99a1cca1f0825f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/6daf229448a298ff6588560ce6f1df3e2092e969/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_6aff8f945ef1f9a9d794af11f25adef6892e8f1e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/bca0e5f532f01d64baf799481671b1da47fc70ea/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_b0c4cd7554a0a029ad2ab1093a3b0b92bf43bd86.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hosup/.android/build-cache/484b2c57fd7ecd682e3af34445eafab7b85430ff/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/pre-dexed/debug/classes_104be2979c9366c2100d31828dcf407fdd9390e4.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/484b2c57fd7ecd682e3af34445eafab7b85430ff/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_104be2979c9366c2100d31828dcf407fdd9390e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c4eb7ef400ed07d5eaf41b677b99a1cca1f0825f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/ea4da13617483b512af625c73251a3e4518c217a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/hosup/AndroidStudioProjects/Hwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e22f2bbde5e28693f3114877c6fa93b7298e4f97/classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_553f365ed57ad380822ec17c9718dcb7342c15d4/classes.dex" />
     </item>
 
 </items>
