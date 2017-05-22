@@ -33,6 +33,9 @@
 		android:layout_height="wrap_content"
 		android:id="@+id/button"
 		android:onClick="onClick"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
 
 
 		android:text="버튼"/>
