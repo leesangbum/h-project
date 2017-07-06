@@ -2,42 +2,47 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:app="http://schemas.android.com/apk/res-auto"
 	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/main_layout"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	android:background="#FFFF00"
 	tools:context="com.hosoart.hwatch.MainActivity">
 
 	<TextView
+		android:id="@+id/text_view"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
-		android:text="안녕!"
-		android:textSize="10sp"
-		android:id="@+id/text_view"
-
-		android:textStyle="bold|italic"
 		android:background="#00FF00"
-		android:padding="10dp"
+		android:padding="50dp"
+		android:singleLine="true"
+
+		android:text="안녕"
+		android:textSize="100sp"
+		android:textStyle="bold|italic"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintLeft_toLeftOf="parent"
 		app:layout_constraintRight_toRightOf="parent"
-		app:layout_constraintTop_toTopOf="parent" />
-	<EditText
-		android:id="@+id/edit_text"
-		android:layout_width="300dp"
-		android:layout_height="wrap_content"
-		android:hint="공부할 과목을 입력해 주세요"
-		android:textColorHint="#0000FF"
-		/>
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintVertical_bias="0.324" />
+	<!--<EditText-->
+	<!--android:id="@+id/edit_text"-->
+	<!--android:layout_width="300dp"-->
+	<!--android:layout_height="wrap_content"-->
+	<!--android:hint="공부할 과목을 입력해 주세요"-->
+	<!--android:textColorHint="#0000FF"-->
+	<!--/>-->
 	<Button
+		android:id="@+id/button"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
-		android:id="@+id/button"
 		android:onClick="onClick"
+		android:text="버튼"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintLeft_toLeftOf="parent"
+
+
 		app:layout_constraintTop_toTopOf="parent"
-
-
-		android:text="버튼"/>
+		android:layout_marginLeft="148dp"
+		app:layout_constraintVertical_bias="0.818" />
 
 </android.support.constraint.ConstraintLayout>
