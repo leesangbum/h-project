@@ -11,8 +11,12 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 import java.util.Timer;
 import java.util.TimerTask;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,6 +37,10 @@ public class MainActivity extends AppCompatActivity {
 //		btn =(Button)findViewById(R.id.button);
 //		edit = (EditText)findViewById(R.id.edit_text);
 		txtv = (TextView)findViewById(R.id.text_view);
+
+		AdView mAdView = (AdView) findViewById(R.id.adView);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
 
 		Vibrator vibrator = (Vibrator)getSystemService(Context.VIBRATOR_SERVICE);
 
@@ -82,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
 
 	public void onClick(View view) {
 		switch(view.getId()){
-			case R.id.button :
+			case R.id.btn_start :
 				vibrator = (Vibrator)getSystemService(Context.VIBRATOR_SERVICE);
 				vibrator.vibrate(1000);
 
@@ -106,16 +114,24 @@ public class MainActivity extends AppCompatActivity {
 							},1000);
 						}
 					};
-					mTimer.schedule(mTask,1000,1000);
-				}else{
+					mTimer.schedule(mTask,0,1000);
+				}
+				break;
+			case R.id.btn_stop:
+
+				if(timer_is_running){
+
 					mTimer.cancel();
 					mTimer.purge();
 					mTimer = null;
 					mTask = null;
 					timer_is_running = false;
+
 				}
-
-
+				break;
+			case R.id.btn_clear:
+				second = 0;
+				txtv.setText(Integer.toString(second));
 			case R.id.main_layout:
 				Toast.makeText(MainActivity.this,"Mainactivity", Toast.LENGTH_SHORT).show();
 				break;

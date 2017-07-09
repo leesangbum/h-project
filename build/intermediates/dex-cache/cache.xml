@@ -3,12 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/hosup/git/h-project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/hosup/.android/build-cache/05be713373593226f75e79f3957bf9a6cfb639d4/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5bfe338cb1d4c6d07aa9a2ea201da1bd3874e5cb/classes.dex" />
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f82ae3bada41ded5c5483e25d5ee2dc1f65f1c31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/4f750f821e456e0d00f887e33714f315dde67eaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9be65fee3e7c6aa4b9ca545129e2b829e13b0e6c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -16,8 +25,62 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="2abeeee3274d2353ebf55c725e98433ed1762150">
+        sha1="99ea4ad6f43a7679c7b431627514c415e8b55a52">
         <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b43540a8c63ee9206adb9ae06bf16d896390ca6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/60902a5511c9fafe96bfb654f8adf3a9cc580bb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a94b79d77f6a88a3179a7f0c7cfeb763c792e0cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/de0855364f3bdfa9d7f0260e15336b0cf8b42613/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b545976e2f5dde901179414ad64a4bd28bfecc68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/1275d8fb682f7685a00ad1d25f0d5c44de6e9962/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66fb46f0f8c08b65c6a0a456adfab00fd4aec036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/08315ba381cae8b1d4298947ba70b395d7bdac80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e5423d0336d9fdfbf09a00b3a5e1f79e49680fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/b83043780e035825e41f8663d7444868588872ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5fa3a804ea4bc539c79cfa7e5f94f329f0a7c95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/git/h-project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5bfe338cb1d4c6d07aa9a2ea201da1bd3874e5cb/classes.dex" />
     </item>
 
 </items>
