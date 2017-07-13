@@ -16,7 +16,7 @@
 		android:layout_height="wrap_content"
 		android:layout_centerHorizontal="true"
 		android:padding="50dp"
-		android:text="ready"
+		android:text="합격"
 		android:textSize="50sp"
 		android:textStyle="bold" />
 	<Button
@@ -51,7 +51,7 @@
 		/>
 	<com.google.android.gms.ads.AdView
 		android:id="@+id/adView"
-		android:layout_width="wrap_content"
+		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		android:layout_centerHorizontal="true"
 		android:layout_alignParentBottom="true"

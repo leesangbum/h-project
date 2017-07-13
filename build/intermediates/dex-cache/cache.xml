@@ -2,6 +2,24 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/de0855364f3bdfa9d7f0260e15336b0cf8b42613/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_b545976e2f5dde901179414ad64a4bd28bfecc68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/05be713373593226f75e79f3957bf9a6cfb639d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_f82ae3bada41ded5c5483e25d5ee2dc1f65f1c31.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/hosup/.android/build-cache/05be713373593226f75e79f3957bf9a6cfb639d4/output/jars/classes.jar"
         jumboMode="true"
@@ -9,24 +27,6 @@
         revision="25.0.3"
         sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
         <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f82ae3bada41ded5c5483e25d5ee2dc1f65f1c31/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/4f750f821e456e0d00f887e33714f315dde67eaa/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9be65fee3e7c6aa4b9ca545129e2b829e13b0e6c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hosup/git/h-project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="99ea4ad6f43a7679c7b431627514c415e8b55a52">
-        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b43540a8c63ee9206adb9ae06bf16d896390ca6b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -38,6 +38,24 @@
         <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a94b79d77f6a88a3179a7f0c7cfeb763c792e0cc/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/60902a5511c9fafe96bfb654f8adf3a9cc580bb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_a94b79d77f6a88a3179a7f0c7cfeb763c792e0cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/08315ba381cae8b1d4298947ba70b395d7bdac80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_2e5423d0336d9fdfbf09a00b3a5e1f79e49680fd.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/hosup/.android/build-cache/de0855364f3bdfa9d7f0260e15336b0cf8b42613/output/jars/classes.jar"
         jumboMode="true"
@@ -45,6 +63,15 @@
         revision="25.0.3"
         sha1="0e23941db151e67886844de6586e180bb2b860ad">
         <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b545976e2f5dde901179414ad64a4bd28bfecc68/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/4876092f296b9197f1291038a17b6141c863ac84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_d467825d5a24866a1683345d30cbbb9e2a32df9e.jar" />
     </item>
     <item
         is-multidex="true"
@@ -56,22 +83,31 @@
         <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66fb46f0f8c08b65c6a0a456adfab00fd4aec036/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/08315ba381cae8b1d4298947ba70b395d7bdac80/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/1275d8fb682f7685a00ad1d25f0d5c44de6e9962/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e5423d0336d9fdfbf09a00b3a5e1f79e49680fd/classes.dex" />
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_66fb46f0f8c08b65c6a0a456adfab00fd4aec036.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/hosup/.android/build-cache/b83043780e035825e41f8663d7444868588872ac/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/hosup/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
-        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5fa3a804ea4bc539c79cfa7e5f94f329f0a7c95/classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_553f365ed57ad380822ec17c9718dcb7342c15d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/27252e8134c3b4b437f5774836b2ab7394ddb59c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_2c909064f563d1d4bca1507487755a60fa433a66.jar" />
     </item>
     <item
         is-multidex="true"
@@ -81,6 +117,78 @@
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5bfe338cb1d4c6d07aa9a2ea201da1bd3874e5cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/e3cc1835275c927c7348355a183a60a80e4e7d19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_424b18176122422db129c5f6bcafd6e2bd92e8b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/git/h-project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b753fd43851436e72eedb5018dc1b9454360c04">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b43540a8c63ee9206adb9ae06bf16d896390ca6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/4f750f821e456e0d00f887e33714f315dde67eaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9be65fee3e7c6aa4b9ca545129e2b829e13b0e6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/4f750f821e456e0d00f887e33714f315dde67eaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_9be65fee3e7c6aa4b9ca545129e2b829e13b0e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/ee2f922862aa1317e1aeab7c11ec06ab7a275f9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_ca998455c388fe4ef4252211295a13b524f00bb0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/08315ba381cae8b1d4298947ba70b395d7bdac80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e5423d0336d9fdfbf09a00b3a5e1f79e49680fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hosup/.android/build-cache/b83043780e035825e41f8663d7444868588872ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/pre-dexed/release/classes_f5fa3a804ea4bc539c79cfa7e5f94f329f0a7c95.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosup/.android/build-cache/b83043780e035825e41f8663d7444868588872ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/Users/hosup/git/h-project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5fa3a804ea4bc539c79cfa7e5f94f329f0a7c95/classes.dex" />
     </item>
 
 </items>
